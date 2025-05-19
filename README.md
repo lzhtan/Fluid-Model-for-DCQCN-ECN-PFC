@@ -6,4 +6,4 @@ I have made detailed comments in the source code. You can directly run Fluid_Mod
 
 In addition, mainplot.m is used for drawing and is generally not used.
 
-If you have any questions, please email me.
+If you have any questions, please refer our paper ByteTuning (IEEE TCC) or email me.
